@@ -1,23 +1,23 @@
 **Physics Capstone Course Syllabus**
 
-_These are the general sections of the syllabus, not including the university-specific sections (academic integrity, student support, security, religious holidays, etc.). G-PAC (mentioned below) is the university's General Education Curriculum._
+_These are the general sections of the syllabus, not including the university-specific sections (academic integrity, student support, security, religious holidays, etc.)._
 
 
 **_Course Overview & Learning Objectives_**
 
-After taking this Writing in the Discipline course, students will be able to explain the issues and standards for ethical conduct of research, explain issues related to building a physics community, describe career paths in physics, create applications for employment and graduate studies including resumes and cover letters, and improve their use of the tools of scientific written and oral communication, including learning how to develop proposals for research funding. Readings for class discussions include scientific research papers, examples of research proposals, resources on ethics and career opportunities, and examples of well-written resumes and cover letters. Students will be able to improve their writing and presentations based on instructor feedback and peer review in class. Students are required to visit the GW Career Services office, and to attend selected GW seminars and colloquia as part of learning how to give good presentations and to become part of the physics community beyond the classroom. Students are also encouraged to attend seminars by researchers in the DC area at places including NASA, Smithsonian, and local universities. The overarching goal is to help students think about, and develop, practical skills related to physics research, and prepare for their careers after graduation. This course will also prepare students for a research project in their junior and/or senior year, and for presenting this research at various venues.
+After taking this course, students will be able to explain the issues and standards for ethical conduct of research, explain issues related to building a physics community, describe career paths in physics, create applications for employment and graduate studies including resumes and cover letters, and improve their use of the tools of scientific written and oral communication, including learning how to develop proposals for research funding. Readings for class discussions include scientific research papers, examples of research proposals, resources on ethics and career opportunities, and examples of well-written resumes and cover letters. Students will be able to improve their writing and presentations based on instructor feedback and peer review in class. Students are required to visit the university's Career Services office, and to attend selected seminars and colloquia as part of learning how to give good presentations and to become part of the physics community beyond the classroom. Students are also encouraged to attend seminars by researchers in the area at places including NASA, Smithsonian, and local universities. The overarching goal is to help students think about, and develop, practical skills related to physics research, and prepare for their careers after graduation. This course will also prepare students for a research project in their junior and/or senior year, and for presenting this research at various venues.
 
 The course has the following learning objectives:
-* Explain and discuss the nature of physics research processes and methods.
-* Explain and discuss ethical conduct of research and physics community issues.
-* Analyze, interpret and report on physics research articles and proposals.
-* Explain career paths in physics, and demonstrate how to apply for competitive research opportunities, job employment, and admission into graduate schools. 
+* Explain and discuss the nature of physics research processes and methods;
+* Explain and discuss ethical conduct of research and physics community issues;
+* Analyze, interpret and report on physics research articles and proposals;
+* Explain career paths in physics, and demonstrate how to apply for competitive research opportunities, job employment, and admission into graduate schools;
 * Demonstrate proficiency in communicating physics ideas and research in an audience- and disciplinarily appropriate manner.
 
 
 **_Writing in the Disciplines Learning Objectives_**
 
-This course satisfies the Written Communication G-PAC learning objectives, which are assessed by in-class and homework writing samples. Students who complete this course will be able to:
+This course satisfies the Written Communication learning objectives of the General Education Curriculum, which are assessed by in-class and homework writing samples. Students who complete this course will be able to:
 * Recognize and apply rhetorical principles and stylistic conventions appropriate to the discipline in which they are working;
 * Identify, analyze, synthesize, evaluate, and employ information resources and/or other forms of supporting evidence appropriate to the discipline in which they are working;
 * Construct rigorous, well-informed arguments and/or sound, probing questions or hypothesis appropriate to the discipline in which they are working;
@@ -26,7 +26,7 @@ This course satisfies the Written Communication G-PAC learning objectives, which
 
 **_Oral Communication Learning Objectives_**
 
-This course also satisfies the Oral Communication G-PAC learning objectives, which are assessed by various in-class presentations. Students who complete this course will be able to:
+This course also satisfies the Oral Communication learning objectives of the General Education Curriculum, which are assessed by various in-class presentations. Students who complete this course will be able to:
 * Take responsibility for a significant topic with a clear thesis and persuasive argument;
 * Demonstrate facility with topical and disciplinary knowledge via well-crafted, audience appropriate language;
 * Demonstrate vocal qualities and physical behaviors that augment content and maintain audience interest.
