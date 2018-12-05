@@ -1,4 +1,4 @@
-**Physics Capstone Course Syllabus**
+# Physics Capstone Course Syllabus
 
 _These are the general sections of the syllabus, not including the university-specific sections (academic integrity, student support, security, religious holidays, etc.)._
 
