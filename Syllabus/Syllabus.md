@@ -1,1 +1,0 @@
-**Physics Capstone Course Syllabus**
