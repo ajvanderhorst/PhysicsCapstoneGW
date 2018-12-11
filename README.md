@@ -6,3 +6,7 @@ The Physics Capstone course was revamped in the Fall 2018 semester, as part of a
 This repository contains materials of the Physics Capstone course (PHYS 4195), including the [syllabus](Syllabus.md), [slides and grading rubrics](Classes.md). In the Fall 2018 semester, there were 21 students in the course. The primary instructor invited expert guest instructors for specific aspects of the course, including classes on physics careers, applications for graduate school, physics outreach, and diversity & inclusion. Writing aspects of the course were developed in collaboration with the University Writing Program. A [recent article](https://columbian.gwu.edu/physics-professionally-speaking) featured the course, including interviews with some of the students.
 
 The revision of the Physics Capstone course is part of a revision of the Physics Curriculum at the George Washington University. This is in line with the [Phys21 report](https://www.compadre.org/jtupp/) of the Joint Task Force on Undergraduate Physics Programs, convened by the American Physical Society and the American Association of Physics Teachers. Some of the aspects of the course are funded by the [PIPELINE Network](https://www.aps.org/programs/education/innovation/pipeline/index.cfm) of the American Physical Society.
+
+## Copyright - Creative Commons License
+
+Faculty interested in using these course materials can do so under Creative Commons License [Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/).
