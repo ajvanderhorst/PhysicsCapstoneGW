@@ -39,7 +39,7 @@ _These class materials and grading rubrics have been changed for general use out
 * Homework assignment: revised version of Physics Today abstract based on peer review and instructor feedback, and short (2 minute) presentation about the same Physics Today article.
 
 **[Class 7](Slides/Class07.pptx)**
-* Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor, using a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
+* Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor and with using a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
 * Homework assignment: preparation for elevator pitch.
 
 **Class 8**
@@ -86,6 +86,24 @@ _These class materials and grading rubrics have been changed for general use out
 **[Class 18](Slides/Class18.pptx)**
 * Final short (3-4 minute) presentations about research articles.
 * Discussion of timeline for undergraduate research project.
+
+**[Class 19](Slides/Class19.pptx)**
+* Guest lecture by the director of the university's Center for Undergraduate Research and Fellowships, and the department's graduate advisor, about applying for summer research, internships and graduate school.
+* Homework assignment: write a cover letter and CV/resume for a specific opportunity.
+
+**[Class 20](Slides/Class20.pptx)**
+* Class discussion about peer review.
+* One-on-one peer review of a cover letter and CV/resume for a specific opportunity, using a [feedback sheet](Materials/ApplicationMaterialsPeerReview.docx) and a [rubric](Materials/ApplicationMaterialsRubric.docx) that is also used for grading by the instructor.
+* Class discussion about different types of proposals.
+* Discussion about writing proposals in general and research proposals in particular.
+* Homework assignment: start writing a proposal for something related to their area of interest/research.
+
+**[Class 21](Slides/Class21.pptx)**
+* Second round of one-on-one peer review of a cover letter and CV/resume for a specific opportunity.
+* Students work on a proposal for something related to their area of interest/research.
+* Discussion of timeline for undergraduate research project.
+
+
 
 #### Copyright - Creative Commons License
 
