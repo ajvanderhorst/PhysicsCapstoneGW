@@ -63,7 +63,7 @@ _These class materials and grading rubrics have been changed for general use out
 * Discussion about gender minorities in the physics community.
 * Group and class discussions about unconscious/implicit bias.
 * Homework assignment: investigate one issue of diversity and inclusion, and present a discussion on this.
-* All the diversity and inclusion slides are based on presentations about this topic by Prof. Evangeline Downie (George Washington University).
+* Diversity and inclusion slides: based on presentations about this topic by Prof. Evangeline Downie (George Washington University).
 
 **[Class 13](Slides/Class13.pptx)**
 * Individual presentations about issues of diversity and inclusion, including stereotype threat, imposter syndrome, harassment/discrimination, LGBTQ+ status, caring responsibilities, socio-economic disadvantage, and disabilities.
