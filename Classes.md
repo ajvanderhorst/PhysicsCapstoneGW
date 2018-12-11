@@ -120,7 +120,7 @@ _These class materials and grading rubrics have been changed for general use out
 
 **[Class 26](Slides/Class26.pptx)**
 * Short (4-5 minute) presentations with slides about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
-* Homework assignment: submit [form](Materials/ResearchProjectDescription.docx) with description of undergraduate research project, signed by student and research advisor.
+* Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of undergraduate research project, signed by student and research advisor.
 
 **[Class 27](Slides/Class27.pptx)**
 * Continuation of short presentations with slides about undergraduate research projects.
