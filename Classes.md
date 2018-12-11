@@ -71,11 +71,11 @@ _These class materials and grading rubrics have been changed for general use out
 * Homework assignment: summary of a research article in the student's area of interest.
 
 **[Class 14](Slides/Class14.pptx)**
-* Two rounds of one-on-one peer review of a research article in the student's area of interest, using a [feedback sheet](Materials/ResearchArticleSummaryPeerReview.docx) and a [rubric](ResearchArticleSummaryRubric.docx) that is also used for grading by the instructor.
+* Two rounds of one-on-one peer review of a research article summary, using a [feedback sheet](Materials/ResearchArticleSummaryPeerReview.docx) and a [rubric](Materials/ResearchArticleSummaryRubric.docx) that is also used for grading by the instructor.
 * Homework assignment: short (3-4 minute) presentation with slides about the same research article.
 
 **[Class 15](Slides/Class15.pptx)**
-* Short (3-4 minute) presentations about research articles, with questions from the class and peer feedback using a [feedback sheet](Materials/ResearchArticlePresentationPeerReview.docx) and a [rubric](ResearchArticlePresentationRubric.docx) that is also used for grading by the instructor.
+* Short (3-4 minute) presentations about research articles, with questions from the class and peer feedback using a [feedback sheet](Materials/ResearchArticlePresentationPeerReview.docx) and a [rubric](Materials/ResearchArticlePresentationRubric.docx) that is also used for grading by the instructor.
 
 **[Class 16](Slides/Class16.pptx)**
 * Continuation of short (3-4 minute) presentations about research articles.
