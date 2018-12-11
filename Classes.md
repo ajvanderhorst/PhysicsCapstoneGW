@@ -43,7 +43,7 @@ _These class materials and grading rubrics have been changed for general use out
 * Homework assignment: preparation for elevator pitch.
 
 **Class 8**
-* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students.
+* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students (SPS).
 
 **[Class 9](Slides/Class09.pptx)**
 * Final short presentations about a Physics Today article, with a focus on presentation style.
@@ -112,15 +112,15 @@ _These class materials and grading rubrics have been changed for general use out
 **[Class 24](Slides/Class24.pptx)**
 * Final round of proposal review panel.
 * Group and class discussions about physics outreach.
-* Homework assignment: revised version of proposal abstract, based on review panel feedback; and team presentations of a physics outreach proposal, following the framework of the Society of Physics Students (SPS) Marsh W. White Award Proposal.
+* Homework assignment: revised version of proposal abstract, based on review panel feedback; and team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
 
 **[Class 25](Slides/Class25.pptx)**
-* Team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
+* Team presentations of physics outreach proposals, following the framework of the SPS Marsh W. White Award Proposal.
 * Homework assignment: abstract for undergraduate research project, graded with a [rubric](Materials/ResearchProjectAbstractRubric.docx), and slides of presentation on that project.
 
 **[Class 26](Slides/Class26.pptx)**
 * Short (4-5 minute) presentations with slides about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
-* Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of undergraduate research project, signed by student and research advisor.
+* Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of undergraduate research project, signed by student and advisor.
 
 **[Class 27](Slides/Class27.pptx)**
 * Continuation of short presentations with slides about undergraduate research projects.
