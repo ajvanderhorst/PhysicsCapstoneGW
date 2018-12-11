@@ -16,7 +16,7 @@ _These class materials and grading rubrics have been changed for general use out
 * Group discussion about the differences between in-class and research-based learning; based on presentations about this topic by Prof. Raluca Teodorescu (Montgomery College).
 * Discussion about best practices for working with a research advisor.
 * Group discussion about research methodology, followed by discussions about the research methodology of an undergraduate research project and specifics about the research literature study.
-* Homework assignment about research ethics, based on [_On Being a Scientist: A Guide to Responsible Conduct in Research_](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in) by the National Academy of Sciences, National Academy of Engineering, and Institute of Medicine of the National Academies.
+* Homework assignment: research ethics team presentations, based on [_On Being a Scientist: A Guide to Responsible Conduct in Research_](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in) by the National Academy of Sciences, National Academy of Engineering, and Institute of Medicine of the National Academies.
 
 **[Class 3](Slides/Class03.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research.
@@ -37,6 +37,24 @@ _These class materials and grading rubrics have been changed for general use out
 * Introduction to LaTeX, with an in-class demo in [Overleaf](https://www.overleaf.com).
 * Discussion of presentations: preparation, purpose, slides, and style; based on presentations about this topic by Prof. Ralph A.M.J. Wijers (University of Amsterdam).
 * Homework assignment: revised version of Physics Today abstract based on peer review and instructor feedback, and short (2 minute) presentation about the same Physics Today article.
+
+**[Class 7](Slides/Class07.pptx)**
+* Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback after every presentation provided in class by the instructor.
+* Homework assignment: preparation for elevator pitch.
+
+**Class 8**
+* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students.
+
+**[Class 9](Slides/Class09.pptx)**
+* Final short presentations about a Physics Today article, with a focus on presentation style.
+* Elevator pitches in groups of 3-4 students, with clear roles of group members and peer feedback.
+
+**Class 10**
+* Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on what skills to highlight in applications, how to conduct a job search, and how to prepare for interviews, with various online resources (at the university, nationally, and internationally)
+
+**Class 11**
+* Guest lecture at the university's Career Services office, focused on the most relevant facilities, resources and services offered to students.
+
 
 
 #### Copyright - Creative Commons License
