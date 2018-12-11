@@ -24,7 +24,7 @@ _These class materials and grading rubrics have been changed for general use out
 
 **[Class 4](Slides/Class04.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research.
-* Discussion about the learning objectives of Writing in the Disciplines, focused on different audiences and writing genres.
+* Discussion about the learning objectives of Writing in the Disciplines, focused on different audiences and genres.
 * Discussion about learning new genres using the CAT (Collect, Analyze, Try) approach, and tips for analyzing new genres; based on the Writing Transfer Project (C. Hayes, George Washington University; G. Gorzelsky, Colorado State University; J. Paszek, University of Detroit Mercy).
 * Homework assignment: write an abstract for [Physics Today](https://physicstoday.scitation.org/journal/pto), appropriate for the audience of the journal.
 
