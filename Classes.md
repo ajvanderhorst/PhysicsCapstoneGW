@@ -1,6 +1,6 @@
 # Class Materials, Slides & Grading Rubrics
 
-_These class materials and grading rubrics have been changed for general use outside of one particular university. All the group discussions are typically for groups of 3 students._
+_These class materials and grading rubrics have been changed for general use outside of one particular university. The group discussions are typically for groups of 3 students._
 
 **[Class 1](Slides/Class01.pptx)**
 * Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
@@ -39,7 +39,7 @@ _These class materials and grading rubrics have been changed for general use out
 * Homework assignment: revised version of Physics Today abstract based on peer review and instructor feedback, and short (2 minute) presentation about the same Physics Today article.
 
 **[Class 7](Slides/Class07.pptx)**
-* Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback after every presentation provided in class by the instructor.
+* Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor and using a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
 * Homework assignment: preparation for elevator pitch.
 
 **Class 8**
@@ -48,6 +48,7 @@ _These class materials and grading rubrics have been changed for general use out
 **[Class 9](Slides/Class09.pptx)**
 * Final short presentations about a Physics Today article, with a focus on presentation style.
 * Elevator pitches in groups of 3-4 students, with clear roles of group members and peer feedback.
+* Discussion of timeline for undergraduate research project.
 
 **Class 10**
 * Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on what skills to highlight in applications, how to conduct a job search, and how to prepare for interviews, with various online resources (at the university, nationally, and internationally)
@@ -67,6 +68,24 @@ _These class materials and grading rubrics have been changed for general use out
 
 **[Class 13](Slides/Class13.pptx)**
 * Individual presentations about issues of diversity and inclusion, including stereotype threat, imposter syndrome, harassment/discrimination, LGBTQ+ status, caring responsibilities, socio-economic disadvantage, and disabilities.
+* Homework assignment: summary of a research article in the student's area of interest.
+
+**[Class 14](Slides/Class14.pptx)**
+* Two rounds of one-on-one peer review of a research article in the student's area of interest, using a [feedback sheet](Materials/ResearchArticleSummaryPeerReview.docx) and a [rubric](ResearchArticleSummaryRubric.docx) that is also used for grading by the instructor.
+* Homework assignment: short (3-4 minute) presentation with slides about the same research article.
+
+**[Class 15](Slides/Class15.pptx)**
+* Short (3-4 minute) presentations about research articles, with questions from the class and peer feedback using a [feedback sheet](Materials/ResearchArticlePresentationPeerReview.docx) and a [rubric](ResearchArticlePresentationRubric.docx) that is also used for grading by the instructor.
+
+**[Class 16](Slides/Class16.pptx)**
+* Continuation of short (3-4 minute) presentations about research articles.
+
+**[Class 17](Slides/Class17.pptx)**
+* Continuation of short (3-4 minute) presentations about research articles.
+
+**[Class 18](Slides/Class18.pptx)**
+* Final short (3-4 minute) presentations about research articles.
+* Discussion of timeline for undergraduate research project.
 
 #### Copyright - Creative Commons License
 
