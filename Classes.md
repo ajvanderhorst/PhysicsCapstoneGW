@@ -103,7 +103,30 @@ _These class materials and grading rubrics have been changed for general use out
 * Students work on a proposal for something related to their area of interest/research.
 * Discussion of timeline for undergraduate research project.
 
+**[Class 22](Slides/Class22.pptx)**
+* Review panel of anonymized proposals with given review criteria and specific roles of a primary reviewer, secondary reviewer and recorder, but also a discussion with the entire class for every proposal.
 
+**[Class 23](Slides/Class23.pptx)**
+* Continuation of proposal review panel.
+
+**[Class 24](Slides/Class24.pptx)**
+* Final round of proposal review panel.
+* Group and class discussions about physics outreach.
+* Homework assignment: revised version of proposal abstract, based on review panel feedback; and team presentations of a physics outreach proposal, following the framework of the Society of Physics Students (SPS) Marsh W. White Award Proposal.
+
+**[Class 25](Slides/Class25.pptx)**
+* Team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
+* Homework assignment: abstract for undergraduate research project, graded with a [rubric](Materials/ResearchProjectAbstractRubric.docx), and slides of presentation on that project.
+
+**[Class 26](Slides/Class26.pptx)**
+* Short (4-5 minute) presentations with slides about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
+* Homework assignment: submit [form](Materials/ResearchProjectDescription.docx) with description of undergraduate research project, signed by student and research advisor.
+
+**[Class 27](Slides/Class27.pptx)**
+* Continuation of short presentations with slides about undergraduate research projects.
+
+**[Class 28](Slides/Class28.pptx)**
+* Final short presentations with slides about undergraduate research projects.
 
 #### Copyright - Creative Commons License
 
