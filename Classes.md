@@ -116,11 +116,11 @@ _These class materials and grading rubrics have been changed for general use out
 
 **[Class 25](Slides/Class25.pptx)**
 * Team presentations of physics outreach proposals, following the framework of the SPS Marsh W. White Award Proposal.
-* Homework assignment: abstract for undergraduate research project, graded with a [rubric](Materials/ResearchProjectAbstractRubric.docx), and slides of presentation on that project.
+* Homework assignment: abstract for undergraduate research project, graded with a [rubric](Materials/ResearchProjectAbstractRubric.docx), and presentation on that project.
 
 **[Class 26](Slides/Class26.pptx)**
-* Short (4-5 minute) presentations with slides about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
-* Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of undergraduate research project, signed by student and advisor.
+* Short (4-5 minute) presentations about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
+* Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of research project, signed by student and advisor.
 
 **[Class 27](Slides/Class27.pptx)**
 * Continuation of short presentations with slides about undergraduate research projects.
