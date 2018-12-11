@@ -39,7 +39,7 @@ _These class materials and grading rubrics have been changed for general use out
 * Homework assignment: revised version of Physics Today abstract based on peer review and instructor feedback, and short (2 minute) presentation about the same Physics Today article.
 
 **[Class 7](Slides/Class07.pptx)**
-* Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor and using a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
+* Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor, using a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
 * Homework assignment: preparation for elevator pitch.
 
 **Class 8**
