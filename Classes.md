@@ -53,7 +53,7 @@ _These class materials and grading rubrics have been changed for general use out
 * Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on what skills to highlight in applications, how to conduct a job search, and how to prepare for interviews, with various online resources (at the university, nationally, and internationally)
 
 **Class 11**
-* Guest lecture at the university's Career Services office, focused on the most relevant facilities, resources and services offered to students.
+* Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on the most relevant facilities, resources and services offered to students.
 
 
 
