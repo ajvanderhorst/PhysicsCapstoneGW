@@ -16,7 +16,12 @@ _These class materials and grading rubrics have been changed for general use out
 * Group discussion about the differences between in-class and research-based learning.
 * Discussion about best practices for working with a research advisor.
 * Group discussion about research methodology, followed by discussions about the research methodology of an undergraduate research project and some specifics about a research literature study.
-* Homework assignment about research ethics, based on [_On Being a Scientist: A Guide to Responsible Conduct in Research_](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in) by the Committee on Science, Engineering, and Public Policy; National Academy of Sciences, National Academy of Engineering, and Institute of Medicine of the National Academies.
+* Homework assignment about research ethics, based on [_On Being a Scientist: A Guide to Responsible Conduct in Research_](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in) by the National Academy of Sciences, National Academy of Engineering, and Institute of Medicine of the National Academies.
+
+**[Class 3](Slides/Class03.pptx)**
+* Two short (5-10 minute) presentations by faculty about their research, to give students an overview of the research being performed in the department.
+* Team presentations about research ethics, based on [_On Being a Scientist: A Guide to Responsible Conduct in Research_](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in), using a [grading sheet](Materials/EthicsPresentationsGrading.docx).
+
 
 #### Copyright - Creative Commons License
 
