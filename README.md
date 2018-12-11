@@ -7,6 +7,6 @@ This repository contains materials of the Physics Capstone course (PHYS 4195), i
 
 The revision of the Physics Capstone course is part of a revision of the Physics Curriculum at the George Washington University. This is in line with the [Phys21 report](https://www.compadre.org/jtupp/) of the Joint Task Force on Undergraduate Physics Programs, convened by the American Physical Society and the American Association of Physics Teachers. Some of the aspects of the course are funded by the [PIPELINE Network](https://www.aps.org/programs/education/innovation/pipeline/index.cfm) of the American Physical Society.
 
-**Copyright - Creative Commons License**
+#### Copyright - Creative Commons License
 
-Faculty can use these course materials under Creative Commons License [Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/).
+Faculty can use these course materials under Creative Commons License [Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
