@@ -2,7 +2,7 @@
 
 _These class materials and grading rubrics have been changed for general use outside of one particular university._
 
-**[Class 1](Slides/Class 01 - Introduction & Physics Skills.pptx)**
+**[Class 1](Slides/Class01.pptx)**
 * Group discussions (~3 students per group) about what students think a Capstone Experience is, followed by an explanation of the structure of the Capstone Experience at the particular university.
 * Explanation and discussion of the learning objectives and deliverables of the Physics Capstone course and Physics Symposium course, and the structure of the Physics Capstone course.
 * Introduction to Phys21, the report from the Joint Task force on Undergraduate Physics Programs, about preparing physics students for 21st-century careers.
