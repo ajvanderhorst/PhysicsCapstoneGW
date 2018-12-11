@@ -22,6 +22,16 @@ _These class materials and grading rubrics have been changed for general use out
 * Two short (5-10 minute) presentations by faculty about their research, to give students an overview of the research being performed in the department.
 * Team presentations about research ethics, based on [_On Being a Scientist: A Guide to Responsible Conduct in Research_](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in), using a [grading sheet](Materials/EthicsPresentationsGrading.docx).
 
+**[Class 4](Slides/Class04.pptx)**
+* Two short (5-10 minute) presentations by faculty about their research, to give students an overview of the research being performed in the department.
+* Discussion about the learning objectives of Writing in the Disciplines, focused on different audiences and genres in writing.
+* Discussion about guidelines for learning new genres using the CAT (Collect, Analyze, Try) approach, and tips for analyzing new genres.
+* Homework assignment: writing an abstract for [Physics Today](https://physicstoday.scitation.org/journal/pto), appropriate for the audience of the journal.
+
+**[Class 5](Slides/Class05.pptx)**
+* Two short (5-10 minute) presentations by faculty about their research, to give students an overview of the research being performed in the department.
+* One-to-one peer review of the Physics Today abstracts.
+
 
 #### Copyright - Creative Commons License
 
