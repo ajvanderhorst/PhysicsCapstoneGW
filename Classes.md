@@ -3,12 +3,12 @@
 _These class materials and grading rubrics have been changed for general use outside of one particular university. All the group discussions are typically for groups of 3 students._
 
 **[Class 1](Slides/Class01.pptx)**
-* Group discussion about what a Capstone Experience is, followed by a discussion of the Capstone Experience at the particular university.
+* Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
 * Discussion of the learning objectives and deliverables of the Physics Capstone and Physics Symposium course.
 * Introduction to Phys21, the report from the Joint Task force on Undergraduate Physics Programs.
 * Group discussion about what skills physicists have and/or need.
 * Discussion of important statistics regarding physics employment and other outcomes from the Phys21 report.
-* Individual activity: students make a list of skills they have, evidence showing that they have those skills, and skills they expect to have when they graduate.
+* Individual activity: students write down skills they have and evidence showing that they have those skills.
 
 **[Class 2](Slides/Class02.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research, to give students an overview of the research being performed in the department.
