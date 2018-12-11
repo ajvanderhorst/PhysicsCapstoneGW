@@ -64,3 +64,7 @@ Numerical course grades translate into letter grades using the following scale:
 * 55.00 – 60.99	D
 * 50.00 – 54.99	D-
 * ≤ 49.99	F
+
+#### Copyright - Creative Commons License
+
+Faculty can use these course materials under Creative Commons License [Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
