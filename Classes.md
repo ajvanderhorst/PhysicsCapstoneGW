@@ -55,6 +55,16 @@ _These class materials and grading rubrics have been changed for general use out
 **Class 11**
 * Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on the most relevant facilities, resources and services offered to students.
 
+**[Class 12](Slides/Class12.pptx)**
+* Group discussions about interactions of physicists with society.
+* Group and class discussions about appearances of physicists in the (inter)national media.
+* Introduction on issues of diversity and inclusion in the physics community.
+* Group and class discussions about visible minorities in the physics community.
+* Discussion about gender minorities in the physics community.
+* Group and class discussions about unconscious/implicit bias.
+* Homework assignment: investigate one issue of diversity and inclusion, and present a discussion on one of those issues.
+* All the diversity and inclusion slides and materials are based on presentations about this topic by Prof. Evangeline Downie (George Washington University).
+
 
 
 #### Copyright - Creative Commons License
