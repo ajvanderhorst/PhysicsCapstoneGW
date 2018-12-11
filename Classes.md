@@ -1,4 +1,4 @@
-# Class Materials & Grading Rubrics
+# Class Materials, Slides & Grading Rubrics
 
 _These class materials and grading rubrics have been changed for general use outside of one particular university._
 
@@ -10,8 +10,9 @@ _These class materials and grading rubrics have been changed for general use out
 * Discussion of some important statistics and outcomes regarding physics employment from the Phys21 report.
 * Individual activity: students make a list of skills they have, evidence showing that they have those skills, and skills they expect to have at graduation.
 
-**Class 2**
-
+**[Class 2](Slides/Class02.pptx)**
+* Two short (5-10 minute) presentations by faculty about their research, to give students an overview of the research being performed in the department.
+* Group discussions (~3 students per group) about what students think the definition of research is, and what the motivation is for people to do physics research.
 
 #### Copyright - Creative Commons License
 
