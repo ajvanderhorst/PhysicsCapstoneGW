@@ -1,6 +1,6 @@
 # Class Materials, Slides & Grading Rubrics
 
-_These class materials and grading rubrics have been changed for general use outside of one particular university. The group discussions are typically for groups of 3 students._
+_These class materials and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
 **[Class 1](Slides/Class01.pptx)**
 * Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
