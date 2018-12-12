@@ -5,7 +5,7 @@ _These class materials, slides and grading rubrics have been changed for general
 **[Class 1](Slides/Class01.pptx)**
 * Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
 * Discussion of the learning objectives and deliverables of the Physics Capstone and Physics Symposium course.
-* Introduction to Phys21, the report from the [Joint Task force on Undergraduate Physics Programs](https://www.aps.org/programs/education/undergrad/jtupp.cfm).
+* Introduction to Phys21, the report from the [Joint Task force on Undergraduate Physics Programs](https://www.compadre.org/jtupp/).
 * Group discussion about what skills physicists have and/or need.
 * Discussion of important statistics regarding physics employment and other outcomes from the Phys21 report.
 * Individual activity: students write down skills they have and evidence showing that they have those skills.
