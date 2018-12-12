@@ -36,7 +36,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Feedback on one-to-one peer review of previous class.
 * Introduction to LaTeX, with an in-class demo in [Overleaf](https://www.overleaf.com).
 * Discussion of presentations: preparation, purpose, slides, and style; based on presentations about this topic by Prof. Ralph A.M.J. Wijers (University of Amsterdam).
-* Homework assignment: revised version of Physics Today abstract based on peer review and instructor feedback, and short (2 minute) presentation about the same Physics Today article.
+* Homework assignment: revised version of Physics Today abstract, based on peer review and instructor feedback; and short (2 minute) presentation about the same Physics Today article.
 
 **[Class 7](Slides/Class07.pptx)**
 * Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor and with using a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
