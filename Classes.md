@@ -1,6 +1,6 @@
 # Physics Capstone - Class Materials
 
-_These class materials, slides and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
+_These class materials, slides and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers. This was a course with 21 students._
 
 **[Class 1](Slides/Class01.pptx)**
 * Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
@@ -57,12 +57,12 @@ _These class materials, slides and grading rubrics have been changed for general
 * Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on the most relevant facilities, resources and services offered to students.
 
 **[Class 12](Slides/Class12.pptx)**
-* Group discussions about interactions of physicists with society.
-* Group and class discussions about appearances of physicists in the (inter)national media.
+* Group discussion about interactions of physicists with society.
+* Group and class discussion about appearances of physicists in the (inter)national media.
 * Introduction on issues of diversity and inclusion in the physics community.
-* Group and class discussions about visible minorities in the physics community.
+* Group and class discussion about visible minorities in the physics community.
 * Discussion about gender minorities in the physics community.
-* Group and class discussions about unconscious/implicit bias.
+* Group and class discussion about unconscious/implicit bias.
 * Homework assignment: investigate one issue of diversity and inclusion, and present a discussion on this.
 * Mostly based on diversity and inclusion presentations by Prof. Evangeline Downie (George Washington University).
 
