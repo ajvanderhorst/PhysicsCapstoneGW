@@ -26,7 +26,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Two short (5-10 minute) presentations by faculty about their research.
 * Discussion about the learning objectives of Writing in the Disciplines, focused on different audiences and genres.
 * Discussion about learning new genres using the CAT (Collect, Analyze, Try) approach, and tips for analyzing new genres; based on the Writing Transfer Project (C. Hayes, George Washington University; G. Gorzelsky, Colorado State University; J. Paszek, University of Detroit Mercy).
-* Homework assignment: write an abstract for [Physics Today](https://physicstoday.scitation.org/journal/pto), appropriate for the audience of the journal.
+* Homework assignment: write an abstract for a [Physics Today](https://physicstoday.scitation.org/journal/pto) article, appropriate for the journal's audience.
 
 **[Class 5](Slides/Class05.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research.
