@@ -1,6 +1,6 @@
-# Class Materials, Slides & Grading Rubrics
+# Physics Capstone - Class Materials
 
-_These class materials and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
+_These class materials, slides and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
 **[Class 1](Slides/Class01.pptx)**
 * Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
@@ -130,4 +130,4 @@ _These class materials and grading rubrics have been changed for general use out
 
 #### Copyright - Creative Commons License
 
-Faculty can use these course materials under Creative Commons License [Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Faculty can use these course materials under [Creative Commons License Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
