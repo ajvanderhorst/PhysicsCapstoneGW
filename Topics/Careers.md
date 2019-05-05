@@ -10,7 +10,7 @@ _These are class materials that are part of the Physics Capstone course, and spe
 
 **[Resume & Cover Letter](Slides/ClassResumeCoverLetter.pptx)**
 * Class discussion about peer review.
-* One-on-one peer review of a cover letter and CV/resume for a specific opportunity, using a [feedback sheet](Materials/ApplicationMaterialsPeerReview.docx) and a [rubric](Materials/ApplicationMaterialsRubric.docx) that is also used for grading by the instructor.
+* One-on-one peer review of a cover letter and CV/resume for a specific opportunity, using a [feedback sheet](../Materials/ApplicationMaterialsPeerReview.docx) and a [rubric](../Materials/ApplicationMaterialsRubric.docx) that is also used for grading by the instructor.
 
 **Guest Lectures**
 * Guest lecture on physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students (SPS).
