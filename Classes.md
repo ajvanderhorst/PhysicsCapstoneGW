@@ -115,7 +115,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Homework assignment: revised version of proposal abstract, based on review panel feedback; and team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
 
 **[Class 25](Slides/Class25.pptx)**
-* Team presentations of outreach proposals, following the framework of the SPS Marsh W. White Award Proposal.
+* Team presentations of outreach proposals, following the framework of the SPS Marsh W. White Award Proposal, and using a [grading sheet](Materials/OutreachPresentationsGrading.docx).
 * Homework assignment: abstract for undergraduate research project, graded with a [rubric](Materials/ResearchProjectAbstractRubric.docx); and project presentation.
 
 **[Class 26](Slides/Class26.pptx)**
