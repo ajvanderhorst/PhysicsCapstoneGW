@@ -17,7 +17,7 @@ _These are class materials that are part of the Physics Capstone course, and spe
 
 **[Physics Outreach](Slides/ClassCommunity3Outreach.pptx)**
 * Group and class discussions about physics outreach.
-* Homework assignment: team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal, and using a [grading sheet](../Materials/EthicsPresentationsGrading.docx).
+* Homework assignment: team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal, and using a [grading sheet](../Materials/OutreachPresentationsGrading.docx).
 
 #### Copyright - Creative Commons License
 
