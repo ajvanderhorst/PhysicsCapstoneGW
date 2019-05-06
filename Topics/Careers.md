@@ -2,13 +2,13 @@
 
 _These are class materials that are part of the Physics Capstone course, and specifically related to physics careers. The materials have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
-**[Introduction to Physics Careers](Slides/ClassCareersIntro.pptx)**
+**[Introduction to Physics Careers](Slides/ClassCareers1Intro.pptx)**
 * Introduction to Phys21, the report from the [Joint Task force on Undergraduate Physics Programs](https://www.compadre.org/jtupp/).
 * Group discussion about what skills physicists have and/or need.
 * Discussion of important statistics regarding physics employment and other outcomes from the Phys21 report.
 * Individual activity: students write down skills they have and evidence showing that they have those skills.
 
-**[Resume & Cover Letter](Slides/ClassResumeCoverLetter.pptx)**
+**[Resume & Cover Letter](Slides/ClassCareers2ResumeCoverLetter.pptx)**
 * Class discussion about peer review.
 * One-on-one peer review of a cover letter and CV/resume for a specific opportunity, using a [feedback sheet](../Materials/ApplicationMaterialsPeerReview.docx) and a [rubric](../Materials/ApplicationMaterialsRubric.docx) that is also used for grading by the instructor.
 
