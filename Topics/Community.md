@@ -1,4 +1,4 @@
-# Physics Capstone - Class Materials for Society & Community Activities
+# Physics Capstone - Society & Community Activities
 
 _These are class materials that are part of the Physics Capstone course, and specifically related to physicists in society and the physics community. The materials have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
@@ -15,8 +15,7 @@ _These are class materials that are part of the Physics Capstone course, and spe
 * Individual presentations about issues of diversity and inclusion, including stereotype threat, imposter syndrome, harassment/discrimination, LGBTQ+ status, caring responsibilities, socio-economic disadvantage, and disabilities.
 * Mostly based on diversity and inclusion presentations by Prof. Evangeline Downie (George Washington University).
 
-**[Class 24](Slides/ClassCommunity3Outreach.pptx)**
-* Final round of proposal review panel.
+**[Physics Outreach](Slides/ClassCommunity3Outreach.pptx)**
 * Group and class discussions about physics outreach.
 * Homework assignment: team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
 
