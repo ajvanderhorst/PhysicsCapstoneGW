@@ -23,7 +23,7 @@ _These are class materials that are part of the Physics Capstone course, and spe
 * Review panel of anonymized proposals with given review criteria and specific roles of a primary reviewer, secondary reviewer and recorder, but also a discussion with the entire class for every proposal.
 
 **Research Proposal Abstract**
-* Abstract for undergraduate research project, graded with a [rubric](../Materials/ResearchProjectAbstractRubric.docx)
+* Abstract for undergraduate research project, graded with a [rubric](../Materials/ResearchProjectAbstractRubric.docx).
 * Submission of [form](../Materials/ResearchProjectDescription.doc) with description of research project, signed by student and advisor.
 
 #### Copyright - Creative Commons License
