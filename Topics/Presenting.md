@@ -1,4 +1,4 @@
-# Physics Capstone - Oral Presentation Activities
+# Physics Capstone - Presentation Activities
 
 _These are class materials that are part of the Physics Capstone course, and specifically related to oral presentations. The materials have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
