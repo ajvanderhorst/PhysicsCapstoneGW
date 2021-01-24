@@ -30,7 +30,7 @@ _These class materials, slides and grading rubrics have been changed for general
 
 **[Class 5](Slides/Class05.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research.
-* One-to-one peer review of the Physics Today abstracts.
+* Two rounds of one-to-one peer review of the Physics Today abstracts, using a [feedback sheet](Materials/PhysicsTodayAbstractPeerReview.docx).
 
 **[Class 6](Slides/Class06.pptx)**
 * Feedback on one-to-one peer review of previous class.
