@@ -50,11 +50,12 @@ _These class materials, slides and grading rubrics have been changed for general
 * Elevator pitches in groups of 3-4 students, with clear roles of group members and peer feedback.
 * Discussion of timeline for undergraduate research project.
 
-**Class 10**
-* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students (SPS).
+**[Class 10](Slides/Class10.pptx)**
+* Group and class discussion about collaborative work and the challenges of collaborative work at different scales
+* Group and class discussion about professional engagement in a research group and large collaborations, and the importance of a code of conduct.
 
 **Class 11**
-* Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on the most relevant facilities, resources and services offered to students.
+* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students (SPS).
 
 **[Class 12](Slides/Class12.pptx)**
 * Group discussion about interactions of physicists with society.
