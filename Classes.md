@@ -120,7 +120,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Homework assignment: abstract for undergraduate research project.
 
 **[Class 26](Slides/Class26.pptx)**
-* Two rounds of one-on-one peer review of an undergraduate research project abstract, using a [feedback sheet](Materials/ResearchProjectAbstractRubric.docx) and a [rubric](Materials/ResearchProjectAbstractRubric.docx) that is also used for grading by the instructor.
+* Two rounds of one-on-one peer review of an undergraduate research project abstract, using a [feedback sheet](Materials/ResearchProjectAbstractPeerReview.docx) and a [rubric](Materials/ResearchProjectAbstractRubric.docx) that is also used for grading by the instructor.
 * Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of research project, signed by student and advisor.
 
 **[Class 27](Slides/Class27.pptx)**
