@@ -60,6 +60,8 @@ _These class materials, slides and grading rubrics have been changed for general
 **[Class 12](Slides/Class12.pptx)**
 * Group discussion about interactions of physicists with society.
 * Group and class discussion about appearances of physicists in the (inter)national media.
+
+**[Class 13](Slides/Class13.pptx)**
 * Introduction on issues of diversity and inclusion in the physics community.
 * Group and class discussion about visible minorities in the physics community.
 * Discussion about gender minorities in the physics community.
@@ -67,64 +69,62 @@ _These class materials, slides and grading rubrics have been changed for general
 * Homework assignment: investigate one issue of diversity and inclusion, and present a discussion on this.
 * Mostly based on diversity and inclusion presentations by Prof. Evangeline Downie (George Washington University).
 
-**[Class 13](Slides/Class13.pptx)**
+**[Class 14](Slides/Class14.pptx)**
 * Individual presentations about issues of diversity and inclusion, including stereotype threat, imposter syndrome, harassment/discrimination, LGBTQ+ status, caring responsibilities, socio-economic disadvantage, and disabilities.
 * Homework assignment: summary of a research article in the student's area of interest.
 
-**[Class 14](Slides/Class14.pptx)**
+**[Class 15](Slides/Class15.pptx)**
 * Two rounds of one-on-one peer review of a research article summary, using a [feedback sheet](Materials/ResearchArticleSummaryPeerReview.docx) and a [rubric](Materials/ResearchArticleSummaryRubric.docx) that is also used for grading by the instructor.
 * Homework assignment: short (3-4 minute) presentation with slides about the same research article.
 
-**[Class 15](Slides/Class15.pptx)**
+**[Class 16](Slides/Class16.pptx)**
 * Short (3-4 minute) presentations about research articles, with questions from the class and peer feedback using a [feedback sheet](Materials/ResearchArticlePresentationPeerReview.docx) and a [rubric](Materials/ResearchArticlePresentationRubric.docx) that is also used for grading by the instructor.
 
-**[Class 16](Slides/Class16.pptx)**
-* Continuation of short (3-4 minute) presentations about research articles.
-
 **[Class 17](Slides/Class17.pptx)**
-* Continuation of short (3-4 minute) presentations about research articles.
-
-**[Class 18](Slides/Class18.pptx)**
 * Final short (3-4 minute) presentations about research articles.
 * Discussion of timeline for undergraduate research project.
 
-**[Class 19](Slides/Class19.pptx)**
+**[Class 18](Slides/Class18.pptx)**
 * Guest lecture by the director of the university's Center for Undergraduate Research and Fellowships, and the department's graduate advisor, about applying for summer research, internships and graduate school.
 * Homework assignment: write a cover letter and CV/resume for a specific opportunity.
 
-**[Class 20](Slides/Class20.pptx)**
+**[Class 19](Slides/Class19.pptx)**
 * Class discussion about peer review.
 * One-on-one peer review of a cover letter and CV/resume for a specific opportunity, using a [feedback sheet](Materials/ApplicationMaterialsPeerReview.docx) and a [rubric](Materials/ApplicationMaterialsRubric.docx) that is also used for grading by the instructor.
 * Class discussion about different types of proposals.
 * Discussion about writing proposals in general and research proposals in particular.
 * Homework assignment: start writing a proposal for something related to their area of interest/research.
 
-**[Class 21](Slides/Class21.pptx)**
+**[Class 20](Slides/Class20.pptx)**
 * Second round of one-on-one peer review of a cover letter and CV/resume for a specific opportunity.
 * Students work on a proposal for something related to their area of interest/research.
 * Discussion of timeline for undergraduate research project.
 
-**[Class 22](Slides/Class22.pptx)**
+**[Class 21](Slides/Class21.pptx)**
 * Review panel of anonymized proposals with given review criteria and specific roles of a primary reviewer, secondary reviewer and recorder, but also a discussion with the entire class for every proposal.
 
-**[Class 23](Slides/Class23.pptx)**
+**[Class 22](Slides/Class22.pptx)**
 * Continuation of proposal review panel.
+* Discussion on writing for a general audience and writing a press release.
+* Homework assignment: writing a press release, and revised version of proposal abstract, based on review panel feedback
+
+**[Class 23](Slides/Class23.pptx)**
+* Group peer review of press releases.
 
 **[Class 24](Slides/Class24.pptx)**
-* Final round of proposal review panel.
 * Group and class discussions about physics outreach.
-* Homework assignment: revised version of proposal abstract, based on review panel feedback; and team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
+* Homework assignment: team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
 
 **[Class 25](Slides/Class25.pptx)**
 * Team presentations of outreach proposals, following the framework of the SPS Marsh W. White Award Proposal, and using a [grading sheet](Materials/OutreachPresentationsGrading.docx).
-* Homework assignment: abstract for undergraduate research project, graded with a [rubric](Materials/ResearchProjectAbstractRubric.docx); and project presentation.
+* Homework assignment: abstract for undergraduate research project.
 
 **[Class 26](Slides/Class26.pptx)**
-* Short (4-5 minute) presentations about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
+* Two rounds of one-on-one peer review of an undergraduate research project abstract, using a [feedback sheet](Materials/ResearchProjectAbstractRubric.docx) and a [rubric](Materials/ResearchProjectAbstractRubric.docx) that is also used for grading by the instructor.
 * Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of research project, signed by student and advisor.
 
 **[Class 27](Slides/Class27.pptx)**
-* Continuation of short presentations with slides about undergraduate research projects.
+* Short (4-5 minute) presentations about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
 
 **[Class 28](Slides/Class28.pptx)**
 * Final short presentations with slides about undergraduate research projects.
