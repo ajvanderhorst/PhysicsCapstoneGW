@@ -1,6 +1,6 @@
 # Physics Capstone - Class Materials
 
-_These class materials, slides and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers. This was a course with 21 students._
+_These class materials, slides and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
 **[Class 1](Slides/Class01.pptx)**
 * Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
@@ -43,7 +43,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Homework assignment: preparation for elevator pitch.
 
 **Class 8**
-* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students (SPS).
+* Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on what skills to highlight in applications, how to conduct a job search, and how to prepare for interviews, with various online resources (at the university, nationally, and internationally).
 
 **[Class 9](Slides/Class09.pptx)**
 * Final short presentations about a Physics Today article, with a focus on presentation style.
@@ -51,7 +51,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Discussion of timeline for undergraduate research project.
 
 **Class 10**
-* Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on what skills to highlight in applications, how to conduct a job search, and how to prepare for interviews, with various online resources (at the university, nationally, and internationally).
+* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students (SPS).
 
 **Class 11**
 * Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on the most relevant facilities, resources and services offered to students.
