@@ -56,8 +56,8 @@ _These class materials, slides and grading rubrics have been changed for general
 * Group and class discussion about collaborative work and the challenges of collaborative work at different scales
 * Group and class discussion about professional engagement in a research group and large collaborations, and the importance of a code of conduct.
 
-**Class 11**
-* Guest lecture about physics careers and skills of physicists, including materials from the [Careers Toolbox](https://www.spsnational.org/sites/all/careerstoolbox/) of the Society of Physics Students (SPS).
+**[Class 11](Slides/Class11.pptx)**
+* Guest lecture by someone from the university's Center for Undergraduate Research and Fellowships, and the department's Director of Graduate Studies, about applying for summer research, internships and graduate school.
 
 **[Class 12](Slides/Class12.pptx)**
 * Group discussion about interactions of physicists with society.
@@ -87,7 +87,6 @@ _These class materials, slides and grading rubrics have been changed for general
 * Discussion of timeline for undergraduate research project.
 
 **[Class 18](Slides/Class18.pptx)**
-* Guest lecture by the director of the university's Center for Undergraduate Research and Fellowships, and the department's graduate advisor, about applying for summer research, internships and graduate school.
 * Homework assignment: write a cover letter and CV/resume for a specific opportunity.
 
 **[Class 19](Slides/Class19.pptx)**
