@@ -1,4 +1,4 @@
-# Physics Capstone - Class Materials
+# Physics Capstone Course - Class Materials
 
 _These class materials, slides and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
