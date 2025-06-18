@@ -87,6 +87,8 @@ _These class materials, slides and grading rubrics have been changed for general
 * Discussion of timeline for undergraduate research project.
 
 **[Class 18](Slides/Class18.pptx)**
+* Guest lecture about negotation and communication, based on the American Physical Society's Negotiation & Communication Training
+for Women.
 * Homework assignment: write a cover letter and CV/resume for a specific opportunity.
 
 **[Class 19](Slides/Class19.pptx)**
