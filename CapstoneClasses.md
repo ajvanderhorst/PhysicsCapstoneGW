@@ -42,8 +42,10 @@ _These class materials, slides and grading rubrics have been changed for general
 * Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor and on a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
 * Homework assignment: preparation for elevator pitch.
 
-**Class 8**
-* Guest lecture by an industry career coach for STEM students at the university's Career Services office, focused on what skills to highlight in applications, how to conduct a job search, and how to prepare for interviews, with various online resources (at the university, nationally, and internationally).
+**[Class 8](Slides/Class08.pptx)**
+* Discussion on where recent graduates of this program have placed: graduate schools, research positions, and jobs outside of academia.
+* Guest mini-lecture by someone from the university's or college's Career Services office, highlighting events and resources available at the Career Services office, and giving general advice on careers and applications.
+* Discussion of physics careers, based on resources provided by the American Physical Society, American Institute of Physics, and Society of Physics Students, including the Careers Toolbox.
 
 **[Class 9](Slides/Class09.pptx)**
 * Final short presentations about a Physics Today article, with a focus on presentation style.
