@@ -45,7 +45,7 @@ _These class materials, slides and grading rubrics have been changed for general
 **[Class 8](Slides/Class08.pptx)**
 * Discussion on placement of recent graduates: graduate schools, research positions, and jobs outside of academia.
 * Guest mini-lecture by someone from the university's or college's Career Services office, highlighting events and resources available at the Career Services office, and giving general advice on careers and applications.
-* Discussion of physics careers, based on resources provided by the American Physical Society, American Institute of Physics, and Society of Physics Students, including the Careers Toolbox.
+* Discussion of physics careers, and on the process from career orientation to job offer, based on resources provided by the American Physical Society, American Institute of Physics, and Society of Physics Students, including the Careers Toolbox.
 
 **[Class 9](Slides/Class09.pptx)**
 * Final short presentations about a Physics Today article, with a focus on presentation style.
