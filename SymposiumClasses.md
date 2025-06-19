@@ -15,13 +15,17 @@ _These class materials, slides and grading rubrics have been changed for general
 * Refresher on LaTeX provided on slides.
 
 **[Class 3](SymposiumSlides/SymposiumClass03.pptx)**
-* Introduction & Presentations
+* Two rounds of one-to-one peer review of the introduction for the report, using a [feedback sheet](Materials/SymposiumReportIntroductionPeerReview.docx) and [rubric](Materials/SymposiumReportIntroductionRubric.docx).
+* Homework assignment: preparation for a short presentation on the motivation, context and main question(s) of the research project.
 
 **[Class 4](SymposiumSlides/SymposiumClass04.pptx)**
-* Presentation Skills & Abstract
+* Short (3 minute) presentations on the motivation, context and main question(s) of the research project, with a focus on presentation style; individual feedback in class by instructor and peers.
+* Homework assignment: write an abstract for a poster, to be presented at the Research Showcase.
+* Homework assignment: preparation for elevator pitch.
 
 **[Class 5](SymposiumSlides/SymposiumClass05.pptx)**
-* Elevator pitch & abstract peer review
+* Two rounds of one-to-one peer review of the poster abstract.
+* Elevator pitches in groups of 3-4 students, with clear roles of group members and peer feedback.
 
 **[Class 6](SymposiumSlides/SymposiumClass06.pptx)**
 * Methodology section
