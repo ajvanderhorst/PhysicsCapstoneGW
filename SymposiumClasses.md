@@ -47,7 +47,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Homework assignment: create a second draft of the poster and prepare poster presentation.
 
 **[Class 10](SymposiumSlides/SymposiumClass10.pptx)**
-* In-class practice poster presentations.
+* In-class practice poster presentations with instructor and peer feedback using a [rubric](Materials/SymposiumPosterRubric.docx).
 * Homework assignment: create a final draft of the poster and poster presentation.
 
 **[Class 11](SymposiumSlides/SymposiumClass11.pptx)**
@@ -60,11 +60,11 @@ _These class materials, slides and grading rubrics have been changed for general
 * Homework assignment: submit draft slides for the presentation.
 
 **[Class 13](SymposiumSlides/SymposiumClass13.pptx)**
-* Practice presentations with instructor and peer feedback.
-* Homework assignment: submit final draft of the full report.
+* Practice presentations with instructor and peer feedback using a [rubric](Materials/SymposiumPresentationRubric.docx).
+* Homework assignment: submit final draft of the full report, which will be graded using a [rubric](Materials/SymposiumReportRubric.docx).
 
 **[Class 14](SymposiumSlides/SymposiumClass14.pptx)**
-* Practice presentations with instructor and peer feedback.
+* Practice presentations with instructor and peer feedback using a [rubric](Materials/SymposiumPresentationRubric.docx).
 
 #### Copyright - Creative Commons License
 
