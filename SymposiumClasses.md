@@ -6,11 +6,13 @@ _These class materials, slides and grading rubrics have been changed for general
 * Discussion on the course learning objectives, expectations, and deliverables.
 * Refresher on learning new genres using the CAT (Collect, Analyze, Try) approach, and tips for analyzing new genres; based on the Writing Transfer Project (C. Hayes, George Washington University; G. Gorzelsky, Colorado State University; J. Paszek, University of Detroit Mercy).
 * Discussion on current status of all students' research projects.
-* In-class activity to create a structure for the report.
+* In-class activity to create a structure for the report, including sections and subsections.
 * Homework assignment: write a first draft of the introduction for the report.
 
 **[Class 2](SymposiumSlides/SymposiumClass02.pptx)**
-* Report introduction & LaTeX
+* Two rounds of one-to-one peer review of the introduction for the report, using a [feedback sheet](Materials/SymposiumReportIntroductionPeerReview.docx) and [rubric](Materials/SymposiumReportIntroductionRubric.docx).
+* Homework assignment: write a second draft of the introduction for the report.
+* Refresher on LaTeX provided on slides.
 
 **[Class 3](SymposiumSlides/SymposiumClass03.pptx)**
 * Introduction & Presentations
