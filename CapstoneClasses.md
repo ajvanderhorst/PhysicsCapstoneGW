@@ -2,7 +2,7 @@
 
 _These class materials, slides and grading rubrics have been changed for general use outside of one particular university. The slides of classes can be accessed by clicking on the class numbers._
 
-**[Class 1](Slides/Class01.pptx)**
+**[Class 1](CapstoneSlides/CapstoneClass01.pptx)**
 * Group discussion about Capstone Experiences, followed by a discussion of the department's Capstone Experience.
 * Discussion of the learning objectives and deliverables of the Physics Capstone and Physics Symposium course.
 * Introduction to Phys21, the report from the [Joint Task force on Undergraduate Physics Programs](https://www.compadre.org/jtupp/).
@@ -10,7 +10,7 @@ _These class materials, slides and grading rubrics have been changed for general
 * Discussion of important statistics regarding physics employment and other outcomes from the Phys21 report.
 * Individual activity: students write down skills they have and evidence showing that they have those skills.
 
-**[Class 2](Slides/Class02.pptx)**
+**[Class 2](CapstoneSlides/CapstoneClass02.pptx)**
 * Two short (5-10 minute) presentations by faculty, to give an overview of the research performed in the department.
 * Group discussion about the definition of research and the motivation for people to do physics research.
 * Group discussion about the differences between in-class and research-based learning; based on presentations about this topic by Prof. Raluca Teodorescu (Montgomery College).
@@ -18,52 +18,52 @@ _These class materials, slides and grading rubrics have been changed for general
 * Group discussion about research methodology, followed by discussions about the research methodology of an undergraduate research project and specifics about the research literature study.
 * Homework assignment: team presentations on research ethics, based on [_On Being a Scientist: A Guide to Responsible Conduct in Research_](https://www.nap.edu/catalog/12192/on-being-a-scientist-a-guide-to-responsible-conduct-in).
 
-**[Class 3](Slides/Class03.pptx)**
+**[Class 3](CapstoneSlides/CapstoneClass03.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research.
 * Team presentations on research ethics, using a [grading sheet](Materials/EthicsPresentationsGrading.docx).
 
-**[Class 4](Slides/Class04.pptx)**
+**[Class 4](CapstoneSlides/CapstoneClass04.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research.
 * Discussion about the learning objectives of Writing in the Disciplines, focused on different audiences and genres.
 * Discussion about learning new genres using the CAT (Collect, Analyze, Try) approach, and tips for analyzing new genres; based on the Writing Transfer Project (C. Hayes, George Washington University; G. Gorzelsky, Colorado State University; J. Paszek, University of Detroit Mercy).
 * Homework assignment: write an abstract for a [Physics Today](https://physicstoday.scitation.org/journal/pto) article, appropriate for the journal's audience.
 
-**[Class 5](Slides/Class05.pptx)**
+**[Class 5](CapstoneSlides/CapstoneClass05.pptx)**
 * Two short (5-10 minute) presentations by faculty about their research.
 * Two rounds of one-to-one peer review of the Physics Today abstracts, using a [feedback sheet](Materials/PhysicsTodayAbstractPeerReview.docx).
 
-**[Class 6](Slides/Class06.pptx)**
+**[Class 6](CapstoneSlides/CapstoneClass06.pptx)**
 * Feedback on one-to-one peer review of previous class.
 * Introduction to LaTeX, with an in-class demo in [Overleaf](https://www.overleaf.com).
 * Discussion of presentations: preparation, purpose, slides, and style; based on presentations about this topic by Prof. Ralph A.M.J. Wijers (University of Amsterdam).
 * Homework assignment: revised version of Physics Today abstract, based on peer review and instructor feedback; and short (2 minute) presentation about the same Physics Today article.
 
-**[Class 7](Slides/Class07.pptx)**
+**[Class 7](CapstoneSlides/CapstoneClass07.pptx)**
 * Short (2 minute) presentations about a Physics Today article, with a focus on presentation style; individual feedback in class by the instructor and on a [grading sheet](Materials/PhysicsTodayPresentationsGrading.docx).
 * Homework assignment: preparation for elevator pitch.
 
-**[Class 8](Slides/Class08.pptx)**
+**[Class 8](CapstoneSlides/CapstoneClass08.pptx)**
 * Discussion on placement of recent graduates: graduate schools, research positions, and jobs outside of academia.
 * Guest mini-lecture by someone from the university's or college's Career Services office, highlighting events and resources available at the Career Services office, and giving general advice on careers and applications.
 * Discussion of physics careers, and on the process from career orientation to job offer, based on resources provided by the American Physical Society, American Institute of Physics, and Society of Physics Students, including the Careers Toolbox.
 
-**[Class 9](Slides/Class09.pptx)**
+**[Class 9](CapstoneSlides/CapstoneClass09.pptx)**
 * Final short presentations about a Physics Today article, with a focus on presentation style.
 * Elevator pitches in groups of 3-4 students, with clear roles of group members and peer feedback.
 * Discussion of timeline for undergraduate research project.
 
-**[Class 10](Slides/Class10.pptx)**
+**[Class 10](CapstoneSlides/CapstoneClass10.pptx)**
 * Group and class discussion about collaborative work and the challenges of collaborative work at different scales
 * Group and class discussion about professional engagement in a research group and large collaborations, and the importance of a code of conduct.
 
-**[Class 11](Slides/Class11.pptx)**
+**[Class 11](CapstoneSlides/CapstoneClass11.pptx)**
 * Guest lecture by someone from the university's Center for Undergraduate Research and Fellowships, and the department's Director of Graduate Studies, about applying for summer research, internships and graduate school.
 
-**[Class 12](Slides/Class12.pptx)**
+**[Class 12](CapstoneSlides/CapstoneClass12.pptx)**
 * Group discussion about interactions of physicists with society.
 * Group and class discussion about appearances of physicists in the (inter)national media.
 
-**[Class 13](Slides/Class13.pptx)**
+**[Class 13](CapstoneSlides/CapstoneClass13.pptx)**
 * Introduction on issues of diversity and inclusion in the physics community.
 * Group and class discussion about visible minorities in the physics community.
 * Discussion about gender minorities in the physics community.
@@ -71,65 +71,65 @@ _These class materials, slides and grading rubrics have been changed for general
 * Homework assignment: investigate one issue of diversity and inclusion, and present a discussion on this.
 * Mostly based on diversity and inclusion presentations by Prof. Evangeline Downie (George Washington University).
 
-**[Class 14](Slides/Class14.pptx)**
+**[Class 14](CapstoneSlides/CapstoneClass14.pptx)**
 * Individual presentations about issues of diversity and inclusion, including stereotype threat, imposter syndrome, harassment/discrimination, LGBTQ+ status, caring responsibilities, socio-economic disadvantage, and disabilities.
 * Homework assignment: summary of a research article in the student's area of interest.
 
-**[Class 15](Slides/Class15.pptx)**
+**[Class 15](CapstoneSlides/CapstoneClass15.pptx)**
 * Two rounds of one-on-one peer review of a research article summary, using a [feedback sheet](Materials/ResearchArticleSummaryPeerReview.docx) and a [rubric](Materials/ResearchArticleSummaryRubric.docx) that is also used for grading by the instructor.
 * Homework assignment: short (3-4 minute) presentation with slides about the same research article.
 
-**[Class 16](Slides/Class16.pptx)**
+**[Class 16](CapstoneSlides/CapstoneClass16.pptx)**
 * Short (3-4 minute) presentations about research articles, with questions from the class and peer feedback using a [feedback sheet](Materials/ResearchArticlePresentationPeerReview.docx) and a [rubric](Materials/ResearchArticlePresentationRubric.docx) that is also used for grading by the instructor.
 
-**[Class 17](Slides/Class17.pptx)**
+**[Class 17](CapstoneSlides/CapstoneClass17.pptx)**
 * Final short (3-4 minute) presentations about research articles.
 * Discussion of timeline for undergraduate research project.
 
-**[Class 18](Slides/Class18.pptx)**
+**[Class 18](CapstoneSlides/CapstoneClass18.pptx)**
 * Guest lecture about negotation and communication, based on the American Physical Society's Negotiation & Communication Training
 for Women.
 * Homework assignment: write a cover letter and CV/resume for a specific opportunity.
 
-**[Class 19](Slides/Class19.pptx)**
+**[Class 19](CapstoneSlides/CapstoneClass19.pptx)**
 * Class discussion about peer review.
 * One-on-one peer review of a cover letter and CV/resume for a specific opportunity, using a [feedback sheet](Materials/ApplicationMaterialsPeerReview.docx) and a [rubric](Materials/ApplicationMaterialsRubric.docx) that is also used for grading by the instructor.
 * Class discussion about different types of proposals.
 * Discussion about writing proposals in general and research proposals in particular.
 * Homework assignment: start writing a proposal for something related to their area of interest/research.
 
-**[Class 20](Slides/Class20.pptx)**
+**[Class 20](CapstoneSlides/CapstoneClass20.pptx)**
 * Second round of one-on-one peer review of a cover letter and CV/resume for a specific opportunity.
 * Students work on a proposal for something related to their area of interest/research.
 * Discussion of timeline for undergraduate research project.
 
-**[Class 21](Slides/Class21.pptx)**
+**[Class 21](CapstoneSlides/CapstoneClass21.pptx)**
 * Review panel of anonymized proposals with given review criteria and specific roles of a primary reviewer, secondary reviewer and recorder, but also a discussion with the entire class for every proposal.
 
-**[Class 22](Slides/Class22.pptx)**
+**[Class 22](CapstoneSlides/CapstoneClass22.pptx)**
 * Continuation of proposal review panel.
 * Discussion on writing for a general audience and writing a press release.
 * Homework assignment: writing a press release, and revised version of proposal abstract, based on review panel feedback
 
-**[Class 23](Slides/Class23.pptx)**
+**[Class 23](CapstoneSlides/CapstoneClass23.pptx)**
 * Group peer review of press releases.
 
-**[Class 24](Slides/Class24.pptx)**
+**[Class 24](CapstoneSlides/CapstoneClass24.pptx)**
 * Group and class discussions about physics outreach.
 * Homework assignment: team presentations of a physics outreach proposal, following the framework of the SPS Marsh W. White Award Proposal.
 
-**[Class 25](Slides/Class25.pptx)**
+**[Class 25](CapstoneSlides/CapstoneClass25.pptx)**
 * Team presentations of outreach proposals, following the framework of the SPS Marsh W. White Award Proposal, and using a [grading sheet](Materials/OutreachPresentationsGrading.docx).
 * Homework assignment: abstract for undergraduate research project.
 
-**[Class 26](Slides/Class26.pptx)**
+**[Class 26](CapstoneSlides/CapstoneClass26.pptx)**
 * Two rounds of one-on-one peer review of an undergraduate research project abstract, using a [feedback sheet](Materials/ResearchProjectAbstractPeerReview.docx) and a [rubric](Materials/ResearchProjectAbstractRubric.docx) that is also used for grading by the instructor.
 * Homework assignment: submit [form](Materials/ResearchProjectDescription.doc) with description of research project, signed by student and advisor.
 
-**[Class 27](Slides/Class27.pptx)**
+**[Class 27](CapstoneSlides/CapstoneClass27.pptx)**
 * Short (4-5 minute) presentations about undergraduate research projects, graded with a [rubric](Materials/ResearchProjectPresentationRubric.docx).
 
-**[Class 28](Slides/Class28.pptx)**
+**[Class 28](CapstoneSlides/CapstoneClass28.pptx)**
 * Final short presentations with slides about undergraduate research projects.
 
 #### Copyright - Creative Commons License
