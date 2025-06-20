@@ -8,10 +8,10 @@ _These are class materials that are part of the Physics Capstone course, and spe
 * Discussion of important statistics regarding physics employment and other outcomes from the Phys21 report.
 * Individual activity: students write down skills they have and evidence showing that they have those skills.
 
-**[Discussion of Physics Careers](Slides/ClassCareers1Intro.pptx)**
+**[Discussion of Physics Careers](Slides/ClassCareers2Resources.pptx)**
 * Discussion of physics careers, and on the process from career orientation to job offer, based on resources provided by the American Physical Society, American Institute of Physics, and Society of Physics Students, including the Careers Toolbox.
 
-**[Resume & Cover Letter](Slides/ClassCareers2ResumeCoverLetter.pptx)**
+**[Resume & Cover Letter](Slides/ClassCareer32ResumeCoverLetter.pptx)**
 * Cover letter and CV/resume for a specific opportunity, with two rounds of one-on-one peer review, using a [feedback sheet](../Materials/ApplicationMaterialsPeerReview.docx) and a [rubric](../Materials/ApplicationMaterialsRubric.docx) that is also used for grading by the instructor.
 
 **Guest Lectures**
