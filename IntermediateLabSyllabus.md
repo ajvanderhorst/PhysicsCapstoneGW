@@ -37,17 +37,17 @@ Class meetings are on Thursday morning and Tuesday afternoon. Additionally, on T
 You are required to keep a laboratory notebook (large 3-ring binder) for this course in which you will record your day-to-day work. Always begin your weekly entry with the date, time, and name of any lab partners. You are encouraged to work together when taking data and analyzing your results but you should not copy work from one another.  If you do not participate in the data acquisition and/or analysis, you should not include it in your notebook except in very unusual circumstances which must be described. If you do include such data and/or analyses in your final write-up or presentation it should include a credit and citation (as in “Photocopied with permission from XXX’s notebook, who conducted the experiment and took the data with the assistance of YYY and ZZZ.”).
 
 The main goal of keeping a lab book is to record in the moment (or very soon afterward), and for the official record, a version of what happened in the laboratory as discoveries are being made, and to save time by keeping a careful record of what you have already accomplished when it is freshest in your mind.  Your notebook should include:
-*	A written record of your weekly research activities, procedures, ideas, false starts, etc.
-*	A diagram of your experimental setup (label equipment with model numbers).
-*	Instrument settings, range of values to be explored.
-*	Sketches of scope traces and other important visual results.
-*	Data and analysis file documentation.
-*	Theoretical derivations and sample calculations and prose descriptions of subtle points.
-*	Reference citations.
-*	Comments about surprising results, and about expected results.
-*	An appendix listing ALL instrumentation used in the experiment.
+*	a written record of your weekly research activities, procedures, ideas, false starts, etc.;
+*	a diagram of your experimental setup (label equipment with model numbers);
+*	instrument settings, range of values to be explored;
+*	sketches of scope traces and other important visual results;
+*	data and analysis file documentation;
+*	theoretical derivations and sample calculations and prose descriptions of subtle points;
+*	reference citations;
+*	comments about surprising results, and about expected results;
+*	an appendix listing ALL instrumentation used in the experiment.
 
-A scientist must be able to communicate his or her work to others.  You will communicate your work to others by preparing oral/visual presentations.  In addition, you will be asked to prepare various written reports and a poster presentation.
+A scientist must be able to communicate their work to others.  You will communicate your work to others by preparing oral/visual presentations.  In addition, you will be asked to prepare various written reports and a poster presentation.
 
 ### Tinkering
 
