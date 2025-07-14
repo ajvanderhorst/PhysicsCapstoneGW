@@ -8,10 +8,10 @@ Worksheet used for the first abstract writing assignment of the semester.
 **[Abstracts Peer Review](IntermediateLabMaterials/IntermediateLabAbstractsPeerReview.docx)**
 Worksheet used for the peer review of the first abstract writing assignment of the semester.
 
-**[Abstracts Assignment](IntermediateLabMaterials/IntermediateLabLettersAssignment.docx)**
+**[Colleague Letter Assignment](IntermediateLabMaterials/IntermediateLabLettersAssignment.docx)**
 Description of the assignment in which students are asked to write a letter to their high school teacher about their experience in performing a certain lab experiment.
 
-**[Abstracts Peer Review](IntermediateLabMaterials/IntermediateLabLettersPeerReview.docx)**
+**[Colleague Letter Peer Review](IntermediateLabMaterials/IntermediateLabLettersPeerReview.docx)**
 Worksheet used for the peer review of the letter to their high school teacher about their experience in performing a certain lab experiment.
 
 **[Lab Notebook Rubric](IntermediateLabMaterials/IntermediateLabNotebooksRubric.docx)**
