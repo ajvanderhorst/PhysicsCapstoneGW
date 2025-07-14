@@ -8,14 +8,14 @@ _These are most of the general sections of the syllabus, not including the unive
 The primary intent of this course is to experiment with a wide variety of physical phenomena and to give you confidence in the laboratory. You will set up and carry out small experiments and several complex experiments, some open-ended and others more prescribed. The experiments change periodically in order to encourage independent exploratory work in the lab. Persistent, creative problem-solving and familiarity with many of the paradigms of the physical world is the goal, along with learning how and when one can make conclusions about aspects of the natural world.  After each experiment, you will be asked to present your results in a variety of ways, including oral, written, and poster-based formats.
 
 The successful student will obtain:
-*	Practical experience with laboratory instrumentation including error analysis, machine shop skills, oscilloscopes, and data acquisition.
-*	Experimental familiarity with a variety of electromagnetic, classical, quantum mechanical, atomic and nuclear physics systems.
-*	Practice with literature searches and finding/using appropriate theoretical resources.
-*	Skills for recording daily progress, maintaining a detailed laboratory notebook, and collaborating and communicating with peers.
-*	The computational skills required to perform data analysis, statistical methods, and mathematical modeling of experimental results.
-*	Proficiency in writing laboratory reports and prose in a variety of formats, including peer-critiquing skills.
-*	Practice in oral and written communication of subtle scientific ideas, including verbal presentation of research results.
-* Appreciation of, and ability to expound upon, physics as an exemplar of how science works as a creative enterprise to describe and understand deep truths about the universe, ultimately guided by reproducible experiments. 
+*	practical experience with laboratory instrumentation including error analysis, machine shop skills, oscilloscopes, and data acquisition;
+*	experimental familiarity with a variety of electromagnetic, classical, quantum mechanical, atomic and nuclear physics systems;
+*	practice with literature searches and finding/using appropriate theoretical resources;
+*	skills for recording daily progress, maintaining a detailed laboratory notebook, and collaborating and communicating with peers;
+*	computational skills required to perform data analysis, statistical methods, and mathematical modeling of experimental results;
+*	proficiency in writing laboratory reports and prose in a variety of formats, including peer-critiquing skills;
+*	practice in oral and written communication of subtle scientific ideas, including verbal presentation of research results;
+* appreciation of, and ability to expound upon, physics as an exemplar of how science works as a creative enterprise to describe and understand deep truths about the universe, ultimately guided by reproducible experiments. 
 
 
 ### Writing in the Disciplines Learning Objectives
