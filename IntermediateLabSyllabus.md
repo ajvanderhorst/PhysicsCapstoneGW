@@ -58,7 +58,7 @@ Advanced experimentation often involves careful tinkering (making small adjustme
 
 Oral presentations provide opportunities for you to learn from each other.  Obviously, you must be present and attentive during your colleague’s presentations for this objective to work effectively.  I will monitor and evaluate your participation in this process.  Asking good questions is a reliable way of demonstrating that you are engaged in this exchange. Seminar attendance and completion of various surveys will also contribute to your participation grade. A weekly reading and discussion forum will be set up in Blackboard where you will be expected to respond to questions in writing. 
 
-Attending departmental seminars/colloquia/events is part of your participation grade and will broaden your scientific perspective, improve your networking skills, and show you how physics is being practiced in the world beyond GWU.  Attendance at 6 or more physics seminars/events is required over the course of the semester. Ask questions!
+Attending departmental seminars/colloquia/events is part of your participation grade and will broaden your scientific perspective, improve your networking skills, and show you how physics is being practiced in the world beyond out university. Attendance at 6 or more physics seminars/events is required over the course of the semester. Ask questions!
 
 
 ### Library Work
@@ -68,12 +68,7 @@ You will be expected to find and read appropriate books and papers in order to u
 
 ### Final Project
 
-We will conclude the course with an individual final project.  I will try to identify final projects that are a good fit for each student’s experience and ability, and I am open to suggestions that you might have for your final project.  Please note that the final projects may include evaluation by other faculty in the physics department.  Hence, your posters representing your final projects must be available for review by your peers, and possibly other faculty, on the last day of class which is Thursday April 23. You will also be presenting your posters to me as part of your final exam which is likely to be Tuesday May 5th, but is not officially scheduled yet.
-
-
-### Distribution of hours spent on coursework
-
-There will be typically two 75-minute lectures per week, totaling 2.5 hours of lectures per week. Out-of-class coursework is estimated to be 5 hours per week, and includes reading materials for classes, doing homework, writing exercises, and preparing for presentations.
+We will conclude the course with an individual final project. I will try to identify final projects that are a good fit for each student’s experience and ability, and I am open to suggestions that you might have for your final project. Please note that the final projects may include evaluation by other faculty in the physics department. Hence, your posters representing your final projects must be available for review by your peers, and possibly other faculty, on the last day of class. You will also be presenting your posters to me as part of your final examination.
 
 
 ### Grading
@@ -82,9 +77,9 @@ The final numerical course grade will be calculated as a weighted average of:
 * 20%	Lab notebook: written record of daily activity, data, sketches, circuit diagrams, research descriptions, observations, commentary, handout pages (handed in twice during semester)
 * 10%	Lab Reports: oral presentations with written documentation, outlines
 * 10%	Lab Reports: written, various formats including abstracts, letter, powerpoint version of presentations
-* 20%	Participation/Seminar Attendance/Quizzes/Homework/In-Class work/Discussion Board
-* 20%	Midterm Exams (two per semester)
-* 20% Final Project
+* 20%	Participation, seminar attendance, quizzes, homework, in-class work, discussion board
+* 20%	Midterm exams (two per semester)
+* 20% Final project
 
 
 #### Copyright - Creative Commons License
